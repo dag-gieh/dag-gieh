@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="https://app.daily.dev/doughlasbosire"><img src="https://api.daily.dev/devcards/v2/T60W33DEL7uhWGpG9N5c5.png?type=default&r=zch" width="356" alt="Doughlas Bosire's Dev Card"/></a>
 <!--
 **dag-gieh/dag-gieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
